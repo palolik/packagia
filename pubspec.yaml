@@ -1,7 +1,7 @@
 name: packagia
 description: "A new Flutter project."
 version: 0.0.1
-homepage:
+homepage: https://github.com/palolik/packagia.git
 
 environment:
   sdk: ^3.8.1
