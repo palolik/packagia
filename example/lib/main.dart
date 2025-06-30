@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: const Text('Prottoys first package'),
         ),
-        body: const Center(child: Packagia(text: 'this is prottoys first package testing'),),
+        body: const  CountryPack(),
       ),
     );
   }

@@ -39,7 +39,7 @@ class _CountryPackState extends State<CountryPack> {
         const Padding(
           padding: EdgeInsets.all(12.0),
           child: Text(
-            'Countries of the World',
+            'From git package',
             style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
           ),
         ),
