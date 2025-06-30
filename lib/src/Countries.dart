@@ -39,7 +39,7 @@ class _CountryPackState extends State<CountryPack> {
         const Padding(
           padding: EdgeInsets.all(12.0),
           child: Text(
-            'From git package',
+            'From git package testing',
             style: TextStyle(fontSize: 22, fontWeight: FontWeight.bold),
           ),
         ),
@@ -51,6 +51,7 @@ class _CountryPackState extends State<CountryPack> {
             itemBuilder: (context, index) {
               final country = countries[index];
               return Card(
+                color: Colors.redAccent,
                 elevation: 4,
                 margin: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
                 child: SizedBox(
