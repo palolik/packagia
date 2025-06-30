@@ -1,3 +1,7 @@
 ## 0.0.1
 
-* TODO: Describe initial release.
+* it wan full on testing only 
+
+## 0.0.2
+
+* 2nd version posting 
